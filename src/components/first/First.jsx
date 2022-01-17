@@ -13,7 +13,8 @@ const First = () => {
             <div className="container__2">
                 <img src="https://i.ibb.co/VHC0gzJ/THUGLIFE.jpg" alt="pic" />
                 <h2>THUG LIFE<span> STORE</span></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                <p>Адрес: ТЦ.Мадина Бутик 5/11 </p>
+                <p>Проспект Шабдан Баатыра,4Б</p>
                 <div className="btn">
                     <a href="https://api.whatsapp.com/send/?phone=%2B996500236060&text&app_absent=0"><button className='button__1'><BsWhatsapp className='w' size={25} color='#c806b0' />WhatsApp</button></a>
                     <a href="https://t.me/hateyoufuckinggg"><button className='button__2'><FaTelegramPlane className='t' size={30} color='#c806b0' />Telegram</button></a>
