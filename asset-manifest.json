@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thugglife/static/css/main.4d346c71.css",
+    "main.js": "/thugglife/static/js/main.b98d2fc9.js",
+    "static/js/787.e8d5c2fd.chunk.js": "/thugglife/static/js/787.e8d5c2fd.chunk.js",
+    "index.html": "/thugglife/index.html",
+    "main.4d346c71.css.map": "/thugglife/static/css/main.4d346c71.css.map",
+    "main.b98d2fc9.js.map": "/thugglife/static/js/main.b98d2fc9.js.map",
+    "787.e8d5c2fd.chunk.js.map": "/thugglife/static/js/787.e8d5c2fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d346c71.css",
+    "static/js/main.b98d2fc9.js"
+  ]
+}
